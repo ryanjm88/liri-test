@@ -1,0 +1,18 @@
+Twitter
+API Key:
+KuLyAHi7ZWLxiAPFsPzHy80Fs
+API Secret:
+zMzPUKhUMskRe6io671RHymqNpm7NQ14g3QYX8uAmsui16flHK
+Access Token:
+985292766551969792-oCl2vYfhNyViO1RNmQIb4U3OZyS8FoK
+Access Token Secret:
+JfpNqwtvmfjiEFoeFtzjIH6kBWTuuNWi5S9z3qE0LSmOC
+
+Spotify
+Client ID:
+6d38391f04064d64b97275600ff7f8d6
+Client Secret:
+7a45bf071f1842859ddeb827e1825799
+
+OMDB
+7feb1e98
