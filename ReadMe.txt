@@ -10,3 +10,5 @@ liri-node-app
 // "my-tweets // Displays my (Ryan's) 20 most recent tweets. Be prepared!
 
 // "do-what-it-says" // Pulls data from text file to be used by Spotify's API to look up track "I Want It That Way".
+
+// Please see the "OMDB", "Spotify", and "Tweets" PNG files for examples of how these commands work.
